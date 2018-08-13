@@ -29,6 +29,7 @@ Enough talk! Let's build!
 Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.  Don't forget to include your pair's github handle as well!
 
 * Add your solution below this line!
+* [prw001's solution](https://github.com/prw001/pomodoro_clock) - [View in Browser](https://prw001.github.io/pomodoro_clock/)
 * [Tim Dowd's solution](https://github.com/timothydowd/pomodoro) - [View in Browser](https://timothydowd.github.io/pomodoro/)
 * [Mark Bungeroth's solution](https://github.com/mbungeroth/pomodoro) - [View in Browser](https://mbungeroth.github.io/pomodoro/)
 * [Johan Morin's solution](https://github.com/MorrisMalone/pomodoro_clock) - [View in Browser](https://morrismalone.github.io/pomodoro_clock/)
@@ -79,6 +80,7 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Archer's solution](https://github.com/LawrenceArcher/pomodoroProject) - [View in browser](https://lawrencearcher.github.io/pomodoroProject/)
 * [mojotron's solution](https://github.com/mojotron/pomodoro-timer) - [View in browser](https://mojotron.github.io/pomodoro-timer/)
 * [AREEBAISHTIAQ's solution](https://github.com/AREEBAISHTIAQ/pomodoro-Timer) - [View in browser](https://AREEBAISHTIAQ.github.io)
+* [dmarkiewicz's solution](https://github.com/dmarkiewicz/the-odin-project/tree/master/pomodoro-project)
 
 ### Next Steps
 
